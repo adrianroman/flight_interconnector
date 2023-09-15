@@ -21,8 +21,8 @@ To use the application, you can make HTTP GET requests to the following endpoint
 - `arrivalDateTime` - Arrival datetime in the arrival airport timezone in ISO format `yyyy-MM-dd'T'HH:mm`
 
 Example request:
-[URL](http://localhost:8080/api/v1/interconnections?departure=DUB&arrival=WRO&departureDateTime=2023-11-12T23:01:12&arrivalDateTime=2023-12-13T23:01:12)
-`localhost:8080/api/v1/interconnections?departure=DUB&arrival=WRO&departureDateTime=2023-11-12T23:01:12&arrivalDateTime=2023-12-13T23:01:12`
+[URL](http://localhost:8080/api/v1/interconnections?departure=DUB&arrival=WRO&departureDateTime=2023-11-12T23:01&arrivalDateTime=2023-12-13T23:01)
+`localhost:8080/api/v1/interconnections?departure=DUB&arrival=WRO&departureDateTime=2023-11-12T23:01&arrivalDateTime=2023-12-13T23:01`
 
 ## Project Structure
 
